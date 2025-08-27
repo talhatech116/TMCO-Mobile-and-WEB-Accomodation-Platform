@@ -108,4 +108,25 @@ This platform ensures a **complete accommodation management cycle** including:
 
 ---
 
+## 📖 Case Study
+
+### ❓ Problem  
+Accommodation providers face challenges:  
+- Manual or error-prone **check-in/check-out tracking**  
+- Delayed response to **maintenance requests**  
+- No unified system for **guests (mobile)** and **staff (web)**  
+
+### 💡 Solution  
+The TMCO platform enables:  
+- 📱 **Mobile app** for guests/employees (check-in/out, raise requests)  
+- 💻 **Web dashboard** for staff/admins (approvals, tracking, insights)  
+- 🔗 Real-time sync between **mobile** and **web**  
+
+### 🎯 Impact  
+- 60% faster response to maintenance requests  
+- Real-time visibility into check-in/out status  
+- Simplified management of users and roles  
+
+---
+
 ✨ With this system, accommodation providers can efficiently manage operations while giving users a smooth digital experience.  
