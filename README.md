@@ -12,6 +12,13 @@ A central hub for users to view their profile and activity.
 - Mobile dashboard shows personalized info.  
 - Web dashboard provides admins with complete records.  
 
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ae17c550-8719-4dca-ab07-9ea442e7fcaf" alt="Mobile User Dashboard" height="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e1639ea2-7cea-4cae-b1b3-89b41347afb8" alt="Users Dashboard" height="350"/></td>
+  </tr>
+</table>  
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ae17c550-8719-4dca-ab07-9ea442e7fcaf" alt="Mobile User Dashboard" height="350"/>
   <img src="https://github.com/user-attachments/assets/e1639ea2-7cea-4cae-b1b3-89b41347afb8" alt="Users Dashboard" height="350"/>
