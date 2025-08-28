@@ -19,11 +19,6 @@ A central hub for users to view their profile and activity.
   </tr>
 </table>  
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ae17c550-8719-4dca-ab07-9ea442e7fcaf" alt="Mobile User Dashboard" height="350"/>
-  <img src="https://github.com/user-attachments/assets/e1639ea2-7cea-4cae-b1b3-89b41347afb8" alt="Users Dashboard" height="350"/>
-</div>  
-
 ---
 
 ### 2. Check-In System  
@@ -31,10 +26,12 @@ Smooth and efficient check-in process for guests/employees.
 - Guests complete check-in via the mobile app.  
 - Admin dashboard displays and manages check-in records.  
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d830d053-cfc0-4032-8199-a6edb2299051" alt="Mobile CheckIn" height="350"/>
-  <img src="https://github.com/user-attachments/assets/b8573fbe-6796-4130-af39-c78d2fefa2ea" alt="CheckIn Dashboard" height="350"/>
-</div>  
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d830d053-cfc0-4032-8199-a6edb2299051" alt="Mobile CheckIn" height="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b8573fbe-6796-4130-af39-c78d2fefa2ea" alt="CheckIn Dashboard" height="350"/></td>
+  </tr>
+</table>  
 
 ---
 
@@ -43,10 +40,12 @@ Seamlessly manage guest check-outs.
 - Guests confirm check-out via the mobile app.  
 - Admins validate and log check-outs through the web system.  
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/cf78aba5-c34a-4f01-88f5-5acd1f937ec5" alt="Mobile CheckOut" height="350"/>
-  <img src="https://github.com/user-attachments/assets/804392e8-0813-4db4-b8e3-6b4716ff98a5" alt="Checkout Dashboard" height="350"/>
-</div>  
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cf78aba5-c34a-4f01-88f5-5acd1f937ec5" alt="Mobile CheckOut" height="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/804392e8-0813-4db4-b8e3-6b4716ff98a5" alt="Checkout Dashboard" height="350"/></td>
+  </tr>
+</table>  
 
 ---
 
@@ -55,10 +54,12 @@ Efficiently track and submit maintenance issues.
 - Users submit maintenance requests via the mobile app.  
 - Admins view and manage requests from the web.  
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4d238fab-ade7-4718-8c45-5d77c0193ef5" alt="Mobile Maintenance Request" height="350"/>
-  <img src="https://github.com/user-attachments/assets/b344b8e6-5d0f-4fbd-ad75-1aa599e4ae10" alt="Maintenance Dashboard" height="350"/>
-</div>  
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4d238fab-ade7-4718-8c45-5d77c0193ef5" alt="Mobile Maintenance Request" height="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b344b8e6-5d0f-4fbd-ad75-1aa599e4ae10" alt="Maintenance Dashboard" height="350"/></td>
+  </tr>
+</table>  
 
 ---
 
@@ -67,10 +68,12 @@ Track task progress and completion.
 - Mobile users see status updates.  
 - Admins log and close completed tasks.  
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/c990cf9f-2cb3-4b56-9613-86209cb00a74" alt="MaintenanceCompletions Dashboard" height="350"/>
-  <img src="https://github.com/user-attachments/assets/57ac2284-89c1-4d35-a2a1-7f5821f4bd48" alt="Mobile Maintenance Summary" height="350"/>
-</div>  
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/57ac2284-89c1-4d35-a2a1-7f5821f4bd48" alt="Mobile Maintenance Summary" height="350"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c990cf9f-2cb3-4b56-9613-86209cb00a74" alt="MaintenanceCompletions Dashboard" height="350"/></td>
+  </tr>
+</table>  
 
 ---
 
